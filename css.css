@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+html{
+    font-family: 'Times New Roman', Roboto, sans-serif;
+}
 
 body {
     background-color: #eceff1;
